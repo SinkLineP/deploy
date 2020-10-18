@@ -1,8 +1,8 @@
 {
-  "name": "tz",
+  "name": "deploy",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sinklinep.github.io/tz/",
+  "homepage": "https://sinklinep.github.io/deploy/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
     "@fortawesome/free-solid-svg-icons": "^5.15.1",
